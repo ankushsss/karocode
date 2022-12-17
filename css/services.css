@@ -1,0 +1,116 @@
+/*
+Template Name: Education
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************services****************/
+.main{
+background:#05182b;
+padding-bottom:40px; 
+ }
+.center_1l h6 a{
+color:#fff;
+display:inline-block;
+margin-bottom:10px;
+ }
+.center_1l .form-control{
+height:46px;
+border-radius:0; 
+font-size:16px;
+box-shadow:none;
+ }
+.center_1l .btn{
+background:#f58634;
+margin-left:0!important;
+border-color:#f58634;
+font-size:16px;
+padding:11px 20px;
+border-radius:0;
+box-shadow:none;
+ }
+.center_1l .input-group{
+width:80%;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:30px;
+ }
+.center_1l{
+width:80%;
+margin-left:auto;
+margin-right:auto;
+padding-top:50px; 
+ }
+ 
+.service_1{
+margin-top:30px; 
+ }
+.service_1lil span{
+width:100%;
+height:150px;
+display:inline-block;
+background:#f5863426;
+text-align:center;
+font-size:60px;
+line-height:140px;
+ }
+.service_1lir h4{
+border-bottom:1px solid #f5863440;
+padding-bottom:15px; 
+ }
+.service_1li{
+border-bottom:1px solid #f5863440;
+padding-bottom:20px; 
+margin-top:20px;
+ }
+.service_1r h4{
+border-bottom:1px solid #f5863440;
+padding-bottom:15px; 
+ }
+.service_1r .form-control {
+    box-shadow: none;
+    border: 1px solid #f5863440;
+    margin-top: 15px;
+    height: 45px;
+    font-size: 16px;
+	border-radius:0;
+}
+.service_1r .form_1{
+height: 135px; 
+ }
+.service_1r ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #555;
+  opacity: 1; /* Firefox */
+}
+.service_1r  h6{
+border-bottom:1px solid #f5863440;
+padding-bottom:15px; 
+}
+/*********************services_end****************/
+
+
+
+@media screen and (max-width : 767px){
+.service_1lir {
+margin-top:10px; 
+ }
+.service_1r {
+margin-top:15px;  
+ }
+.service_1r h6{
+text-align:left; 
+ }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+.service_1lil span{
+font-size:40px; 
+ }
+ }
+@media (min-width:992px) and (max-width:1200px) {
+
+  }
+@media (min-width:1201px) and (max-width:1366px) {
+
+ }
